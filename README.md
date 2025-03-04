@@ -171,8 +171,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Yong Hsiang Hsieh - wilsonhsieh1216@gmail.com
 
-Project Link: [[https://github.com/yourusername/url-shortener](https://github.com/YongHsiangHsieh/url-shortener.git)]([https://github.com/yourusername/url-shortener](https://github.com/YongHsiangHsieh/url-shortener.git))
-
+Project Link: [https://github.com/YongHsiangHsieh/url-shortener.git]
 ---
 
 **Happy Shortening! 🔗✨**
